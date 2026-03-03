@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  padding-top: 110px; /* same as header height */
+}
+body {
+  margin: 0;
+}
+
+#root {
+  width:100%;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  padding-top: 110px;
+}

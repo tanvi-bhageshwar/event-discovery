@@ -1,0 +1,10 @@
+.calendar-page {
+  padding: 120px 5%;
+  background: #f9f9f9;
+  min-height: 100vh;
+}
+
+.calendar-page h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
